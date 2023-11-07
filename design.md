@@ -1,3 +1,3 @@
-* Ievads
-* Līdzīgo risinājumu pārskats
+# Ievads
+# Līdzīgo risinājumu pārskats
   
