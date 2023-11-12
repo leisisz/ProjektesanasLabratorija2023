@@ -10,10 +10,9 @@
 KRITĒRIJI
 
   |Risinājums|Ražošanas ciklu administrēšana|Ražošanas plānošana|Resursu optimizēšana|Automatizācija
-(piedāvājuma sagatavošana/ražošanas atskaites)
-|Datu vizualizācija|Iekārtu statusa uzraudzība reallaikā|
+(piedāvājuma sagatavošana/ražošanas atskaites)|Datu vizualizācija|Iekārtu statusa uzraudzība reallaikā|
 
-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 |IndustryTrader|Ir|Ir|Ir|Ir|Nav|Nav|
 |OEE system (Evocon)|Ir|Ir|Ir|Ir|Ir|Ir|
 
